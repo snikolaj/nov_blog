@@ -1,0 +1,58 @@
+---
+title:  "Three Rs of recycling – reduce"
+date:   2020-10-19 10:00:00 +0100
+categories: "3r-project"
+description: "Fixing an expensive game controller"
+---
+
+<h3>Reducing by repairing!</h3>
+Required materials:
+- 1x Broken pen
+- 1x Phillips head screwdriver (the one that looks like a plus)
+
+If you ask your parents, there’s probably a screwdriver somewhere in your house.
+
+In this post I will show you how to repair a Wii Balance Board, but most of the lessons here apply to repairing most household electronics. By repairing broken electronics instead of throwing them away you can both reduce the amount of money you spend on home electronics, and also save the environment by not throwing away something that is full of all kinds of toxic materials. 
+
+This particular Wii Balance Board has what I believe is the most common problem with household electronics, and I will show you an extremely easy fix for it that also applies to many other electronics.
+
+<h3>About the Wii Balance Board</h3>
+The Wii Balance Board is a battery powered controller for the Nintendo Wii. It’s different from regular controllers in the fact that instead of holding it and clicking buttons on it, you stand on it, and as the name implies, you balance on it. 
+
+Most games made for it are games like that, where you need to balance your body while doing some other task. One day I was playing on the board, left it where I usually leave it and the next day it would’t turn on. 
+
+When it broke I didn’t know anything about fixing electronics, so I left it in a corner of my room and forgot about it. 
+
+<h3>Diagnosing the Wii Balance Board</h3>
+<figure>
+<img src="{{ site.baseurl }}/images/wiibb-disassembled.jpg" alt="Image of a disassembled Wii Balance Board" style="display:block;margin:auto;">
+<figcaption style="text-align:center"><i>A disassembled Wii Balance Board</i></figcaption>
+</figure>
+
+Diagnosing the problems in electronics is fun – like a murder mystery. You need to look around and find some suspects first, and then check which one of them is causing the problem. You’ll need to think critically, use your intuition and follow some basic rules. 
+
+After doing electronics and repairing them for some time, there are usually a couple of problems that appear most commonly. Here’s something many people don’t know – the chips in electronics can last more than a lifetime, but the problem usually is with the power. Most often, some wire fell off or those green boards (called PCBs) become cracked – both of those are easily and cheaply fixable. 
+
+If the the problem is not obvious, then you would need to buy a multimeter. Do not fear, though, they are relatively cheap for such purposes and very easy to use.
+
+<h3>What the problem is</h3>
+<figure>
+<img src="{{ site.baseurl }}/images/wiibb-damage.jpg" alt="Image of damage on the Wii Balance Board" style="display:block;margin:auto;">
+<figcaption style="text-align:center"><i>The main culprit</i></figcaption>
+</figure>
+
+Diagnosing the Wii Balance Board was very easy. As I opened the Wii Balance Board, I saw that a battery had leaked and caused corrosion everywhere. 
+
+If you don’t know, corrosion is the reddish-brown substance that appears on metal when you leave it outside or under water. Corrosion causes rust, and rust does not conduct electricity. If a piece of metal that should conduct
+electrity can’t conduct electricity, then the whole thing is broken. 
+
+The fix for the problem was really easy. After unscrewing the whole Wii Balance Board I used an old dull knife to scrape off the rust. After that, I got a spring from an old broken pen and replaced the metal part that was rusted with the spring. 
+
+<h3>After the fix</h3>
+When I did that, the lights on the board lit up and I knew that I had fixed it. 
+
+If you don’t know how to disassemble some device, you can always find a guide on the Ifixit website. Ifixit is a website where anyone can submit tutorials on disassembling and fixing electronics. They usually show the most common problems with that device, and how to fix it. 
+
+After fixing the board and adding new, undamaged batteries, it worked perfectly. Now, the problem with rust is that once it catches on, you need specific chemicals to remove it or else it spreads. Eventually, I’ll need to replace the whole metal part, and not the rusted part, but that is also a very easy fix as I have the equipment to do that. Had I bought a new one, I would have had to throw this one out and buy a new one, which is bad for the environment because electronics take rare earth metals and a ton of extremely toxic chemicals to make. 
+
+Not only would I be hurting my own environment, but I would also help in hurting the environment in which the new one was made.

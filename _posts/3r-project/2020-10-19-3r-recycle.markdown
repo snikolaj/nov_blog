@@ -1,0 +1,79 @@
+---
+title:  "Three Rs of recycling – recycle"
+date:   2020-10-19 08:00:00 +0100
+categories: "3r-project"
+description: "Salvaging a broken solar flashlight"
+---
+<h3>Broken doesn't mean useless!</h3>
+Required materials:
+- 1x Soldering iron
+- 1x Desoldering wick
+- 1x Multimeter
+
+In this post I will show you how to recycle the components from a broken solar flashlight. I used a multimeter to test where the problem was, and found out which part was broken. Then I show how to remove the parts and recycle them.
+
+<h3>Finding out what’s broken</h3>
+Clicking the button to make the flashlight light up doesn’t work. So we’ve established that there’s a problem. Using a multimeter to measure the voltages inside the circuit I found the problem immediately. 
+
+If you’ve had physics in middle school, you can easily figure out the problem in this circuit. 
+
+When measuring the voltage of the battery it says 0.3v. The battery was a cell type battery, which usually holds around 1.5v (you can easily look this up), that kind of battery is used for watches and similar small electronics. 
+
+Multimeters are great for testing batteries as well. If the voltage of the battery is not the same as the voltage written on the battery itself (or close to it), then the battery is depleted and needs replacing.
+
+<h3>Is it worth fixing?</h3>
+<figure>
+<img src="{{ site.baseurl }}/images/disassembled-flashlight.jpg" alt="Image of a disassembled flashlight" style="display:block;margin:auto;">
+<figcaption style="text-align:center"><i>The insides of this beast</i></figcaption>
+</figure>
+
+This solar powered flashlight is not very useful in the age of smartphone flashlights. I don’t know if I’ve ever used it, and it just takes up space. Because of this, most people would throw it away. 
+
+But not only is the battery in the flashlight full of toxic chemicals, but the solar cell is too. Safely throwing it away would be very hard. So the next best step is to recycle it – remove the components and use them in another circuit.
+
+<h3>Striking gold</h3>
+When I looked up the prices of the components inside, I was shocked to find out that the 2 working components were worth 5$ in total. Had I had 3 more of these, I would have recouped the cost of all the equipment used to measure and recycle it. 
+
+The solar cell was 4$ and the very bright LEDs were 1$. For something so small that’s also free as part of marketing material, it has a lot of pricey components.
+
+<h3>Desoldering</h3>
+<figure>
+<img src="{{ site.baseurl }}/images/desoldering-flashlight.jpg" alt="Image of a flashlight being desoldered" style="display:block;margin:auto;">
+<figcaption style="text-align:center"><i>One of the easiest ways of desoldering</i></figcaption>
+</figure>
+
+The act of removing components in a circuit that have been soldered is called desoldering. What is soldering, you may ask? Soldering is like glueing  electrical components by melting metal, casting it into a specific shape and then connecting it to a circuit. 
+
+Now, this sounds very complicated and it may take special machinery to do this, but anyone can do this for relatively cheap. All that’s needed is a soldering iron and solder. 
+
+The soldering iron is just a device that has a tip that gets  extremely hot. Then you touch the tip with the solder and the solder melts. You’ve just done soldering. Solder is conductive, so it acts like a wire that you can cast into any shape.
+
+<h3>How to desolder</h3>
+<figure>
+<img src="{{ site.baseurl }}/images/recycled-flashlight.jpg" alt="Image of parts recycled from a flashlight" style="display:block;margin:auto;">
+<figcaption style="text-align:center"><i>Components left over after desoldering</i></figcaption>
+</figure>
+To do desoldering, you just need to melt the solder again and remove it somehow. To do that, you use desoldering wick. It’s basically just a copper braid that absorbs molten solder. 
+
+You touch the braid and the molten solder, then apply heat with the iron on top and it will be absorbed. To learn more, watch [this video](https://www.youtube.com/watch?v=pu-nudUAGVo).
+
+This was my first time desoldering and it took me around 1 minute to desolder the whole circuit. When desoldering, everything just fell off and I could easily pick it up. 
+
+<h3>Safety tips</h3>
+Be careful to not touch the tip of the soldering iron – it can get hotter than 200C. Also be careful about touching metal that has touched the tip – metals conduct heat as well as electricity. 
+
+Some people are scared of getting shocked when working with electronics, but if your circuit is unplugged or runs on batteries, there is nothing to be afraid of. A rule of thumb is that 30V+ hurts, 50V+ kills. Most electronics run on 9V, 5V, or even 3.3V. There is no way to get shocked at those voltages. 
+
+Don’t be irrationally afraid of any electricity, most of it is harmless and you are actually more dangerous to most electronics than they are to you.
+
+<h3>After desoldering</h3>
+Though these components were somewhat expensive for electronics standards, if you’re not interested in electronics, what can you do with them? Personally, I like building circuits, but if you’re not like me there are many things you can do with such components. 
+
+First, you can collect the plastic that’s remaining and take it to a recycling place that pays for plastic. In my city, they pay 50c/kg for plastic. If you start doing this a lot, or even get someone to give you electronics to desolder, you can get some money from this. If it’s made of some metals, you can get even more money from that.
+
+Next, with the electronic components there are many things you can do. You can resell them in social media groups about electronics. Many people are prepared to pay a premium if you are able to quickly deliver components that work. 
+
+You can also make a deal with local universities or anyone you know that needs electronics. Usually people have to buy from China which takes a long time to arrive and there is no guarantee that it will work.
+
+<h3>Going above and beyond</h3>
+Or lastly, instead of selling it, you can start an electronics hobby. Electronics can be a very cheap and rewarding hobby that’s very practical. You can blow anyone’s mind by being able to fix everything that’s broken. You can also make your own gadgets and save a ton of money by repairing and making your own electronics. 

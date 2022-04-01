@@ -1,0 +1,20 @@
+---
+title:  "Some much needed advice"
+date:   2020-09-27 08:00:00 +0100
+categories: "gnome-challenge"
+description: "How \"beta testers\" help a lot"
+---
+<h3>Beta testers</h3>
+Sometimes things just don’t work out as planned. I planned to have this blog post out by Wednesday. I predicted that my "beta testers" would finish by then. They didn’t. A few days later they notified me that they had finished. I expected my project to take 2-3 hours to finish, but I didn’t ask them if they did it in one go or over a few days. I can’t thank them enough for offering to do this for free, the feedback they provided is invaluable.
+
+<h3>A big problem</h3>
+The most common complaint was a feeling of loss of direction. They told me that there are parts that are way too beginner oriented, and some that are way too advanced for a beginner to understand. Now, my code is simple, but I think the way I’m explaining is is not. Unfortunately I don’t believe that this problem is something that I could fix with a few revisions, rather I think I’ll have to rewrite the whole tutorial explaining the project. That’s not a problem, since the explanation is not that large, but it’s something that will somewhat slow down the project.
+
+<h3>How it's going so far</h3>
+So far, I’ve done the art, the actual game the project is based on, but I will need to rewrite the explanation, and then make it look good with Adobe InDesign. Luckily I haven’t designed the look of the pdf that will be delivered with InDesign, because I was anticipating something like this. Over the next few weeks, I’ll only focus on rewriting it and giving it a sense of direction. Of my three friends that submitted feedback, all of them had managed to finish creating the game, which still means that the explanation was not totally unusable for even the almost-complete-beginner friend that offered to help me. Though, I had intentionally omitted some parts of the game, the game itself is not that complicated. Since this project is supposed to be sort of a mockup of what the full version is (supposed to be in round 3), I didn’t want to go all in and create something that will take way too long to finish. Still, I believe that I’m doing well on time and I’ll have a lot of time to fine tune and make my project submission as good as I can.
+
+<h3>A specific way of writing</h3>
+An interesting I’ve noticed and had other people tell me is that I have a specific way of writing that people either love or hate. I’ve had teachers that loved it and told me that they loved to read what I wrote, and some hated it and made school a bit miserable. Now, that’s not a problem in school, where the people critiquing you on your way of writing is just a few teachers, but when it’s supposed to be way more people and it’s also for a good cause, then it makes me a bit anxious. Luckily, I believe that a good thing to come out of my specific way of writing is that everyone knows that I wrote it.
+
+<h3>Where's the music?!</h3>
+Another critique I received was that there was no music in the game. Now that’s a problem, because with the art I made it simple using a website so that anyone could make it, but with music it’s a lot more different because not only is music taste subjective, but music has a higher barrier to entry than art. With art, if you can draw, you can just practice drawing and become good with just practice and a good eye. With music, you need to know music theory and you also potentially need to have expensive equipment just to get started. I play the synthesizer, and even the relatively cheap one I have is 300$. I could make the users download a DAW (digital audio workstation) but they have an insanely long list of features and I would have to double the size of the project just to accommodate a DAW learning tutorial. I won’t be doing that, and most likely I’ll leave it as a challenge in the end and maybe put some links to where people can download music to add with a permissive licence. That’s it for today, and next time I’ll be writing about my challenges with InDesign and (re)writing the project.

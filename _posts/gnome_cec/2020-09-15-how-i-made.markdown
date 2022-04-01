@@ -1,0 +1,29 @@
+---
+title:  "How I made the project"
+date:   2020-09-15 08:00:00 +0100
+categories: "gnome-challenge"
+description: "The problems you arrive at when you listen to the opinions of people on the internet"
+---
+<h3>To use a game engine or to not use a game engine?</h3>
+For such a simple project, why even use a game engine? That’s what I also thought in the beginning, that’s what I had been hearing online and now I want to explain why that thinking is both harmful to beginners, and also often a bad choice.
+
+<h3>A bad choice? Why?</h3>
+Firstly, telling people that having to use a game engine or their game is “lesser” in some way is harmful. Making a game without a game engine is hard and often requires learning languages like C++ which are definitely harder than ones like Python or even BASIC which are more beginner oriented, yet aren’t as good for making games with.
+
+And even using a framework like Pygame or Pico-8, it would still be harder to make a game than when using a game engine, because the game engine already handles things like drawing on screen, sound, animations, the game loop and more.
+
+<h3>Game engines exist for a reason</h3>
+This connects to my second point, which is that game engines exist for a reason. They may be slower (in performance) than if one would make a game from scratch using C++, but they make the process of creation much faster and almost always do it better than when it is done manually. Most popular games are not made from scratch, rather they use massive game engines that have been developed for years. An especially egregious offender of abusing game engines is the company Bethesda, which has been using a game engine that is 23 years old to make most of their hit games in the past 2 decades. They have experience with their game engine which means that instead of using development time to make something from scratch, they can focus on improving the gameplay and optimization of their games.
+
+<h3>A personal example and my opinions</h3>
+As an example, I recently recreated the game Breakout in both C++ and the Godot game engine. The C++ version used SDL (the simplest C++ library that can be used to make graphical games). Even when using SDL, my game was still around 300 lines of code. And that was without sound, multiple levels, a score counter and start/end screens.
+
+In the Godot game engine, all of that was around 40-50 lines of code. Not only that, but the code in the Godot game engine was very readable and understandable, while doing graphics in C++ looks like some alien language. God forbid I used OpenGL or even Vulkan. Then the game would have been massive. So, then, it should be obvious which game engine I chose for my project – the Godot game engine. The reasons for that are:
+
+- A dedicated 2D pixel art mode that makes the game look and feel like it’s on an NES or any other old game console
+- A very simple Python-like programming language for programming
+- A very good tilemap system that makes levels extremely easy to make
+- Sound and animations are very easy to do (these are a nightmare to implement in C++)
+- A simple and powerful UI
+
+I believe that anyone with even a tiny knowledge of Python or any other C-style programming language can get a hang of the Godot game engine almost instantly. And I believe that if you try it once, you’ll get hooked and want more. Luckily for you, the Godot game engine has an amazing community that is very helpful towards beginners, the type of people this project is targeted to. If you don’t like the Godot engine, it can still work as an introduction to other game engines which are more complicated, but also more powerful than Godot like Unity and Unreal Engine 4.

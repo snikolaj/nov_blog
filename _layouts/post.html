@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<i>
+    Categories: {{ page.categories }}
+    <br>
+    Written by
+    {% if page.author == "Stefan Nikolaj" %}
+    <a href="{% link about.markdown %}">{{ page.author }}</a>
+    {% else %}
+    {{ page.author }}
+    {% endif %}
+    <br>
+    {{ page.date | date_to_string }}
+</i>
+<hr>
+{{ content }}

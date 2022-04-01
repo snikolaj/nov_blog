@@ -1,0 +1,70 @@
+{
+    "category": [
+        {
+            "name": "8051-microcontroller",
+            "description": "A series of posts about the 8051 microcontroller."
+        },
+        {
+            "name": "gnome-challenge",
+            "description": "Posts documenting my progress in the GNOME Community Engagement Challenge competition (Phase One Winner!)."
+        },
+        {
+            "name": "general",
+            "description": "General posts which don't fit into a specific category."
+        },
+        {
+            "name": "3r-project",
+            "description": "A series where I show you what you can do with broken or unneeded electronics. Leaving them in a basement is a waste of space, and throwing them away is extremely harmful to the  environment. Repairing electronics has been my hobby for a couple of months now, and I couldn’t be happier with it."
+        },
+        {
+            "name": "notes",
+            "description": "Notes on various projects I'm working on, consider this as proto-documentation."
+        },
+        {
+            "name": "school",
+            "description": "Posts related to school, most often school projects, but can be anyting."
+        }
+    ],
+    "featured_videos": [
+        {
+            "link": "https://www.youtube.com/watch?v=yZvLdOboKXk",
+            "description": "A video on introductory programming in the BASIC language in the LibreOffice Calc application."
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=yBe11VbfAME",
+            "description": "A video exploring the surprisingly powerful capabilities of LibreOffice BASIC - it can send emails!"
+        }
+    ],
+    "featured_projects": [
+        {
+            "link": "https://github.com/snikolaj/vga_signal_generator",
+            "name": "DIY Graphics Card",
+            "description": "A completely DIY graphics card based on an extremely optimized version of the popular Ben Eater design. The ATMega32 can be programmed to do all kinds of geometric calculations and rendering, while the PALs enable for different resolutions based on the crystal used."
+        },
+        {
+            "link": "https://github.com/snikolaj/PIC16F1459-USB-MIDI",
+            "name": "DIY USB MIDI Converter",
+            "description": "A DIY MIDI Converter based on the PIC16F1459 microcontroller, handles SysEx like a champ and does rudimentary MIDI filtering for incoming notes."
+        },
+        {
+            "link": "https://github.com/snikolaj/programkitsforeveryone-1",
+            "name": "ProgramKitsForEveryone",
+            "description": "A project which contains a fully contained project and documentation for beginners to teach themselves programming games in one single place."
+        },
+        {
+            "link": "https://github.com/snikolaj/libreoffice_calc_basic_tutorial",
+            "name": "LibreOffice Calc BASIC Tutorial",
+            "description": "Code, spreadsheets and documentation used for the LibreOffice BASIC tutorial series."
+        },
+        {
+            "link": "https://github.com/snikolaj/YM64Axx-research",
+            "name": "YM64Axx Research",
+            "description": "Translated and redesigned datasheet and research for a relatively obscure Japanese-only Yamaha melody chip."
+        },
+        {
+            "link": "https://github.com/snikolaj/ap-statistics-programs",
+            "name": "AP Statistics TI-84 Programs",
+            "description": "A small set of programs which I used to help me with AP Statistics. The most useful one is Inference. Written in TI-BASIC."
+        }
+    ]
+}

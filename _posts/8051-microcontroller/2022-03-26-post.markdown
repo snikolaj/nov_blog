@@ -1,0 +1,13 @@
+---
+title:  "8051 Clocking"
+date:   2022-03-26 15:40:00 +0100
+categories: "8051-microcontroller"
+description: "Blog post about the clocking an 8051"
+---
+<h3>The number <i>12</i></h3>
+Most 8051s work with a clock speed from 0-24MHz, though some can go much faster. The 8051 can use a crystal or any external clock output. If you’re a true masochist, you can even clock your 8051 from a single button. Though, you may be surprised that you have to press 12 times for each instruction. Some will take 24, or even 48 cycles! This is because the 8051 essentially divides the input clock by 12. This is a remnant of its time, and most microprocessors from the period similarly divide their clock inputs by some integer, or end up using strange split-phase complex clock circuitry.
+
+<h3>How to clock an 8051</h3>
+You can clock the 8051 with a crystal or ceramic resonator connected to pins XTAL1 and XTAL2. These essentially work in a Pierce oscillator configuration. You can also supply your own signal to pin XTAL1, such as the aforementioned clicking-a-button-12-times, but you can include an off-chip oscillator, if you need a specific generated frequency, or even just have another microcontroller clocking your 8051. This is one of the things that make the 8051 special, its flexibility with input clocks due to its simplicity. You can even hold on and not supply a signal at all, it won’t mind! It will sit there, remembering all of the registers and wait for you to come back patiently, ready to resume work at a moment’s notice.
+
+[Atmel C51 Hardware Manual (microchip.com) (page 70)](https://ww1.microchip.com/downloads/en/DeviceDoc/doc4316.pdf)
