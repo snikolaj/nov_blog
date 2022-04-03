@@ -22,7 +22,11 @@
         },
         {
             "name": "school",
-            "description": "Posts related to school, most often school projects, but can be anyting."
+            "description": "Posts related to school, most often school projects, but can be anything."
+        },
+        {
+            "name": "electronics-projects",
+            "description": "Posts documenting different electronics projects I build, of which there are many."
         }
     ],
     "featured_videos": [
