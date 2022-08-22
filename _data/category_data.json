@@ -27,6 +27,10 @@
         {
             "name": "electronics-projects",
             "description": "Posts documenting different electronics projects I build, of which there are many."
+        },
+        {
+            "name": "music",
+            "description": "Everything music-related, mostly synthesizers and MIDI files!"
         }
     ],
     "featured_videos": [
