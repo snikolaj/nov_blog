@@ -1,7 +1,7 @@
 ---
 title:  "A collection of my transcribed songs in MIDI"
 date:   2022-08-22 00:00:00 +0100
-categories: "general"
+categories: "music"
 description: "I often enjoy transcribing songs and chord progressions, a small number of which I made into a post!"
 ---
 
