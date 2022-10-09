@@ -9,7 +9,7 @@ Welcome to my site! Here you will find my projects organized in blog posts, gene
 
 <h3>Featured post:</h3>
 <a href="{{ site.posts[0].url }}">{{ site.posts[0].title }}</a><br>
-{{ site.posts[0].description}}<br>
+{{ site.posts[0].description }}<br>
 *In category: {{ site.posts[0].categories }}*
 
 <h3>All posts:</h3>
