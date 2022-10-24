@@ -31,6 +31,10 @@
         {
             "name": "music",
             "description": "Everything music-related, mostly synthesizers and MIDI files!"
+        },
+        {
+            "name": "македонски",
+            "description": "Објави на македонски јазик (posts in Macedonian)."
         }
     ],
     "featured_videos": [
