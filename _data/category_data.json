@@ -78,5 +78,12 @@
             "name": "AP Statistics TI-84 Programs",
             "description": "A small set of programs which I used to help me with AP Statistics. The most useful one is Inference. Written in TI-BASIC."
         }
+    ],
+    "PDF_posts": [
+        {
+            "link": "/documents/constant_current_statija.pdf",
+            "name": "Exploring constant current sources and sinks",
+            "description": "Explanations and schematics for programmable constant current sources and sinks."
+        }
     ]
 }

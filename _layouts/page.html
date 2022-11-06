@@ -24,6 +24,12 @@ layout: default
             <li><a href="{{ videos.link }}">{{ videos.description }}</a></li>
             {% endfor %}
         </ul>
+        <h3>Posts in PDF form:</h3>
+        <ul>
+            {% for posts in site.data.category_data.PDF_posts %}
+            <li><a href="{{ posts.link }}">{{ posts.name }}</a> - {{ posts.description }}</li>
+            {% endfor %}
+        </ul>
 
     </div>
 </div>
