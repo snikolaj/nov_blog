@@ -17,7 +17,12 @@
 <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner">
+    <header class="page-header" role="banner" id="main-header">
+        <div class="background-banner-image">
+            <img id="banner-image" src="{{ site.baseurl }}/backgrounds/{{ page.categories }}.jpg"
+                alt="Banner background image">
+        </div>
+
         <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
         <h2 class="project-tagline">{{ page.description | default: site.description | default:
             site.github.project_tagline }}</h2>
@@ -41,6 +46,40 @@
 </html>
 
 <style>
+    .page-header {
+        width: 100%;
+        position: relative;
+
+
+        z-index: 100;
+        overflow: hidden;
+    }
+
+    .background-banner-image {
+        position: absolute;
+        top: 0;
+        left: 0;
+
+        width: 100%;
+        height: 100%;
+
+        z-index: -100;
+    }
+
+    #banner-image {
+        width: 100%;
+        height: 100%;
+
+        object-fit: cover;
+
+        display: none;
+        filter: blur(3px);
+    }
+
+    .project-name {
+        -webkit-text-stroke: 0.5px black;
+    }
+
     a:link {
         color: #155799;
         background-color: transparent;
@@ -65,3 +104,15 @@
         text-decoration: underline;
     }
 </style>
+
+<script>
+    // checks if background image can be loaded (if it exists) - if yes, then unset the display none
+    var backgroundImage = new Image();
+    backgroundImage.src = "{{ site.baseurl }}/backgrounds/{{ page.categories }}.jpg";
+
+    backgroundImage.onload = function () {
+        document.getElementById("banner-image").style.display = "unset";
+        document.getElementById("main-header").style.backgroundColor = "transparent";
+        document.getElementById("main-header").style.backgroundImage = "none";
+    }
+</script>
