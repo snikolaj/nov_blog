@@ -52,7 +52,9 @@ The biggest downside of the FADAC was its weight and power requirements. Requiri
 <hr>
 
 ### Sources and further reading
-https://books.google.mk/books?id=mfse514lSzEC&pg=PA28&lpg=PA28#v=onepage&q&f=false
-http://www.ed-thelen.org/comp-hist/BRL61-f.html#FADAC
-https://www.themightyninth.org/War%20Stories/FADAC/FADAC.htm
-https://web.archive.org/web/20011002005006/https://ftp.arl.army.mil/~mike/comphist/61ordnance/chap6.html
+<a href="https://books.google.mk/books?id=mfse514lSzEC&pg=PA28&lpg=PA28#v=onepage&q&f=false">https://books.google.mk/books?id=mfse514lSzEC&pg=PA28&lpg=PA28#v=onepage&q&f=false</a>
+<a href="http://www.ed-thelen.org/comp-hist/BRL61-f.html#FADAC">http://www.ed-thelen.org/comp-hist/BRL61-f.html#FADAC</a>
+<a href="https://www.themightyninth.org/War%20Stories/FADAC/FADAC.htm">https://www.themightyninth.org/War%20Stories/FADAC/FADAC.htm</a>
+<a href="https://web.archive.org/web/20011002005006/https://ftp.arl.army.mil/~mike/comphist/61ordnance/chap6.html">https://web.archive.org/web/20011002005006/https://ftp.arl.army.mil/~mike/comphist/61ordnance/chap6.html</a>
+
+(if some of the links don't work, try the Internet Archive)
