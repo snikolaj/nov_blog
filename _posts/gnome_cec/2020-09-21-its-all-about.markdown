@@ -10,8 +10,8 @@ description: "How I'm trying to make my project look good"
 For example, these very beautiful covers for books of that time show what I am trying to explain:
 
 <span class="row">
-    <span class="column half"><img class="blogimg" src="{{ site.baseurl }}/images/bookcover1.jpg" alt="Cover of retro programming book"></span>
-    <span class="column half"><img class="blogimg" src="{{ site.baseurl }}/images/bookcover2.jpg" alt="Cover of retro programming book"></span>
+    <span class="column half"><img class="blogimg" src="{{ site.baseurl }}/images/bookcover1.webp" alt="Cover of retro programming book"></span>
+    <span class="column half"><img class="blogimg" src="{{ site.baseurl }}/images/bookcover2.webp" alt="Cover of retro programming book"></span>
 </span>
 
 

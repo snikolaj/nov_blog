@@ -28,14 +28,14 @@ description: "Дигитализирани изданија на првите б
 <h3 id="#novamakedonija">Нова Македонија</h3>
 Ова е првото издание на Нова Македонија, кој, колку што знам, е најпознатиот македонски весник на сите времиња. За жал, ова не дел од оригиналниот тираж, туку е препечатено издание од 1959, а имам уште едно од 1974 во многу подобра состојба. Поради сите препечатувања, не верувам дека е ретко, и немам доволно добар скенер да го скенирам, па затоа само ќе ги поставам сите страници како слики подолу:
 
-<img src="/images/nova_makedonija/nova_makedonija_str_1.jpg" alt="Prva strana" width="100%">
-<img src="/images/nova_makedonija/nova_makedonija_str_2.jpg" alt="Vtora strana" width="100%">
-<img src="/images/nova_makedonija/nova_makedonija_str_3.jpg" alt="Treta strana" width="100%">
-<img src="/images/nova_makedonija/nova_makedonija_str_4.jpg" alt="Cetvrta strana" width="100%">
-<img src="/images/nova_makedonija/nova_makedonija_str_5.jpg" alt="Petta strana" width="100%">
-<img src="/images/nova_makedonija/nova_makedonija_str_6.jpg" alt="Sesta strana" width="100%">
-<img src="/images/nova_makedonija/nova_makedonija_str_7.jpg" alt="Sedma strana" width="100%">
-<img src="/images/nova_makedonija/nova_makedonija_str_8.jpg" alt="Osma strana" width="100%">
+<img src="/images/nova_makedonija/nova_makedonija_str_1.webp" alt="Prva strana" width="100%">
+<img src="/images/nova_makedonija/nova_makedonija_str_2.webp" alt="Vtora strana" width="100%">
+<img src="/images/nova_makedonija/nova_makedonija_str_3.webp" alt="Treta strana" width="100%">
+<img src="/images/nova_makedonija/nova_makedonija_str_4.webp" alt="Cetvrta strana" width="100%">
+<img src="/images/nova_makedonija/nova_makedonija_str_5.webp" alt="Petta strana" width="100%">
+<img src="/images/nova_makedonija/nova_makedonija_str_6.webp" alt="Sesta strana" width="100%">
+<img src="/images/nova_makedonija/nova_makedonija_str_7.webp" alt="Sedma strana" width="100%">
+<img src="/images/nova_makedonija/nova_makedonija_str_8.webp" alt="Osma strana" width="100%">
 
 
 <h3 id="biografija">Биографија на партизанот Герасим Миланов Димовски</h3>

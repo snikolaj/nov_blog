@@ -24,7 +24,7 @@ The main design goal of the DIY USB-UART converter would be to get reliable 1152
 To get a 3.3V rail for the TXB0108 I just used an AMS1117-3.3 regulator board with included capacitors and indicator LED, which was also a nice touch since I wouldn’t need to add my own. All in all, the hardware ended up being very simple as most of the work had already been done on the boards I used. I built up and soldered the circuit directly, without trying it on a breadboard, since I was certain that it would work. I also added 510-ohm resistors to all the input and output lines (which I almost forgot (and forgot to write here as well)).
 
 <figure>
-<img src="{{ site.baseurl }}/images/usbuart_schematic.png" alt="The schematic of the converter" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/usbuart_schematic.webp" alt="The schematic of the converter" style="display:block;margin:auto;">
 <figcaption style="text-align:center"><i>Quite a simple schematic</i></figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ void main(void)
 ```
 
 <figure>
-<img src="{{ site.baseurl }}/images/usbuart.jpg" alt="The build of the converter" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/usbuart.webp" alt="The build of the converter" style="display:block;margin:auto;">
 <figcaption style="text-align:center"><i>Built and dirty on the cardboard PCB</i></figcaption>
 </figure>
 

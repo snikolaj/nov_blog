@@ -45,9 +45,9 @@ As you can see, there are as many equations as there are elements. Now, you can 
 1. Go to *apps → PlySmlt2 (9) → SIMULTANEOUS EQN SOLVER (2).*
 2. For *EQUATIONS* select how many elements there are (in our case 5) and for *UNKNOWNS* select how many compounds there are (in our case 4).
 3. Now you have to enter the table, however *(important!)* make sure to make each variable after the arrow negative, since we are essentially moving all variables to one side to make the other side equal to zero.
-4. Now we have: <img src="{{ site.baseurl }}/images/balancing_matrix.png" alt="Image of a matrix entered in a calculator" style="display:block;margin:auto;">  
+4. Now we have: <img src="{{ site.baseurl }}/images/balancing_matrix.webp" alt="Image of a matrix entered in a calculator" style="display:block;margin:auto;">  
 Your table should look like this, and now press SOLVE (graph button) to get this screen:
-5. (Almost) final solution: <img src="{{ site.baseurl }}/images/balancing_solution.png" alt="Image of a matrix entered in a calculator" style="display:block;margin:auto;">  
+5. (Almost) final solution: <img src="{{ site.baseurl }}/images/balancing_solution.webp" alt="Image of a matrix entered in a calculator" style="display:block;margin:auto;">  
 This is the solution! Each x corresponds to each letter variable we assigned to our compounds. If you solved by hand, you should also get the same result.
 
 - Now, whether you solved by hand or TI-84, you should be able to express each variable through one (x<sub>5</sub> in the case of the TI-84). The last step you need to do is multiply each equation by a number needed to remove all fractions or decimal numbers. In this case, for x<sub>2</sub> there is a 15/2 we need to eliminate, so multiply all sides 2 to get:  

@@ -111,9 +111,9 @@ Still, knowing I had so much free time in the PIC, and further knowing that I ha
 <h3 id="final">Final result</h3>
 Finally I was happy with my build and was sure that it was giving me accurate results, and it turned out to be something actually useful, that’s a permanent exhibit in my room. The glowing red display is the bane of all camera sensors, however in real life it’s quite a beautiful and strong shade of red. Most importantly, it’s visible from all sides of my room and it measures the temperature, which means that all building requirements have been met. Most importantly, this project taught me the importance of planning and thinking about components, comparing them, and knowing when to change course. I could have wasted time with the SSD1306 displays, or have had an uninteresting “glue two Arduino libraries jankily and call it a finished product”, however I chose the path that would be both extremely educational and satisfactory and high-quality in the end. Finally, this is how the end product looks like. (In this photo the upper red dot is visible, however in real life it isn’t.)
 
-<img src="{{ site.baseurl }}/images/thermometer_on.jpg" alt="Image of the thermometer turned on" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/thermometer_on.webp" alt="Image of the thermometer turned on" style="display:block;margin:auto;">
 
-<img src="{{ site.baseurl }}/images/thermometer_off.jpg" alt="Image of the thermometer turned off" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/thermometer_off.webp" alt="Image of the thermometer turned off" style="display:block;margin:auto;">
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>

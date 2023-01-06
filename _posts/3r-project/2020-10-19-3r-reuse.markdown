@@ -24,7 +24,7 @@ Because we will turn these fans into USB fans, they can also be portable and can
 
 <h3>Building the fan</h3>
 <figure>
-<img src="{{ site.baseurl }}/images/connecting-fan.jpg" alt="Image of a PC fan being connected to power" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/connecting-fan.webp" alt="Image of a PC fan being connected to power" style="display:block;margin:auto;">
 <figcaption style="text-align:center"><i>Connecting the fan</i></figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ Then, get the fan and find the red and black wires. There should be a small conn
 If the fan doesn’t spin on its own, try pushing it once. The initial push needed for the motor to start is the hardest, and after that the motor requires less electricity.
 
 <figure>
-<img src="{{ site.baseurl }}/images/spinning-fan.jpg" alt="Image of a spinning PC fan connected to power" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/spinning-fan.webp" alt="Image of a spinning PC fan connected to power" style="display:block;margin:auto;">
 <figcaption style="text-align:center"><i>It's spinning!</i></figcaption>
 </figure>
 

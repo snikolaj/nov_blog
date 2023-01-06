@@ -5,7 +5,7 @@ categories: "8051-microcontroller"
 description: "Blog post describing the IO ports of the 8051 microcontroller"
 ---
 <figure>
-<img src="{{ site.baseurl }}/images/8051-io-ports.png" alt="Image of the 8051's IO ports" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/8051-io-ports.webp" alt="Image of the 8051's IO ports" style="display:block;margin:auto;">
 <figcaption style="text-align:center"><i>8051 IO circuit</i></figcaption>
 </figure>
 When you set a port as 1, you enable its pull-up resistor. It can’t source much current ("enough for 3 LSTTL loads"). When you read from a port, you’re not reading the value you set it as, rather you’re reading the voltage present at the pin. If you’ve set a port as 1 and something is pulling it low, you’ll see 0. However if you’ve set it to 0, then it’s straight to ground, so if something connected to that pin is outputting a 1, you’ll have a short circuit. This is why setting a pin as a 1 is effectively turning it into an input, and a pull-up, and an active high at the same time. It’s clever, it’s simple, and it’s called quasi-bidirectional!
@@ -19,7 +19,7 @@ One small issue that these kinds of ports have, which might be a dealbreaker in 
 If you use the datasheet to calculate the current sourcing ability of the pins, you would get a result that gives you an approximate 50Kohm value for the internal pull-up resistor. So, to better understand the 8051’s quasi-bidirectional inner workings, I built the circuit from the hardware manual to show you how it works. I changed it a bit for clarity, but trust me, it’s the same one. Fight me on this.
 
 <figure>
-<img src="{{ site.baseurl }}/images/8051-io-port-equivalent.jpg" alt="Image of the 8051's IO ports, circuit on breadboard" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/8051-io-port-equivalent.webp" alt="Image of the 8051's IO ports, circuit on breadboard" style="display:block;margin:auto;">
 <figcaption style="text-align:center"><i>8051 IO equivalent circuit on breadboard</i></figcaption>
 </figure>
 

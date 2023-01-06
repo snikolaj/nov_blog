@@ -50,7 +50,7 @@ This whole experience taught me that it’s often better to take a slightly slow
 With the parts on hand, I placed them in the laptop, used Macrium Reflect to clone the Windows 10 installation to the SSD and backed up the entire laptop hard drive on my own external hard drive. After I was sure both copies were good, I wiped the laptop hard drive, making it faster in the process, and booted up the laptop with the SSD in. Amazingly, the boot time went from approximately three minutes, to exactly 11 seconds. I was extremely satisfied with this repair, and the laptop even felt snappier and faster than my i5-powered desktop budget workstation, due to the extremely fast SSD. At the same time, for archival purposes or storing movies, she could still use the old hard drive, which was healthy and fast enough. 
 
 <figure>
-<img src="{{ site.baseurl }}/images/repair-ram-added.jpg" alt="Picture of task manager showing upgraded RAM" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/repair-ram-added.webp" alt="Picture of task manager showing upgraded RAM" style="display:block;margin:auto;">
 <figcaption style="text-align:center"><i>Getting 12GB of RAM turned out to be an excellent decision.</i></figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ One thing to take in mind is that initially, while finding out your workflows, r
 At the same time, with every successful repair, I gained more experience and updated my processes to become faster. I wrote down the exact processes for most of the aforementioned common problems and kept a USB with repair and diagnostic software that can be used to fix most issues. The time for repairs drastically lowered, from ~10 hours for the first, to ~5 hours for the second, and it went down and down the further I went.
 
 <figure>
-<img src="{{ site.baseurl }}/images/repair-ssd-added.jpg" alt="Picture of an SSD (Samsung 870 QVO)" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/repair-ssd-added.webp" alt="Picture of an SSD (Samsung 870 QVO)" style="display:block;margin:auto;">
 <figcaption style="text-align:center"><i>For hard drive replacements, the Samsung QVO series is cheap, reliable and long-lasting enough to outlive the computer itself.</i></figcaption>
 </figure>
 

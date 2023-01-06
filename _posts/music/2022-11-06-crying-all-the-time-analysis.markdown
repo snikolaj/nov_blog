@@ -10,7 +10,7 @@ description: "It's a pretty good song!"
 A very dear friend of mine has a really cool playlist from where I found some really cool songs I hadn’t known before. One of the songs, towards the bottom, is Alexandra Savior’s Crying All The Time. At first I didn’t want to listen to it – it looked like it’s just moody white girl bedroom pop (and it basically is), but one day while leaving the playlist on shuffle it reached the song. There’s a cool synthesizer at the beginning which made me not skip it, and then I heard the bass line – wow! After listening to it a couple more times, I realized that this is a damn good song, and interesting to me from a compositional perspective. So, in this article, let’s take a look at the composition a bit. Just be warned, I have never taken music lessons, neither do I play bass guitar (though I’d love to). Still, I know what I’m talking about.
 
 <figure>
-<img src="{{ site.baseurl }}/images/crying-all-the-time.png" alt="Image of the notes" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/crying-all-the-time.webp" alt="Image of the notes" style="display:block;margin:auto;">
 <figcaption style="text-align:center"><i>The complete chord + bass transcription</i></figcaption>
 </figure>
 

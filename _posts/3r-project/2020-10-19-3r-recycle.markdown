@@ -23,7 +23,7 @@ Multimeters are great for testing batteries as well. If the voltage of the batte
 
 <h3>Is it worth fixing?</h3>
 <figure>
-<img src="{{ site.baseurl }}/images/disassembled-flashlight.jpg" alt="Image of a disassembled flashlight" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/disassembled-flashlight.webp" alt="Image of a disassembled flashlight" style="display:block;margin:auto;">
 <figcaption style="text-align:center"><i>The insides of this beast</i></figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ The solar cell was 4$ and the very bright LEDs were 1$. For something so small t
 
 <h3>Desoldering</h3>
 <figure>
-<img src="{{ site.baseurl }}/images/desoldering-flashlight.jpg" alt="Image of a flashlight being desoldered" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/desoldering-flashlight.webp" alt="Image of a flashlight being desoldered" style="display:block;margin:auto;">
 <figcaption style="text-align:center"><i>One of the easiest ways of desoldering</i></figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ The soldering iron is just a device that has a tip that gets  extremely hot. The
 
 <h3>How to desolder</h3>
 <figure>
-<img src="{{ site.baseurl }}/images/recycled-flashlight.jpg" alt="Image of parts recycled from a flashlight" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/recycled-flashlight.webp" alt="Image of parts recycled from a flashlight" style="display:block;margin:auto;">
 <figcaption style="text-align:center"><i>Components left over after desoldering</i></figcaption>
 </figure>
 To do desoldering, you just need to melt the solder again and remove it somehow. To do that, you use desoldering wick. It’s basically just a copper braid that absorbs molten solder. 

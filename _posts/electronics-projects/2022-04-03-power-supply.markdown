@@ -34,4 +34,4 @@ Here the issue of my lack of power tools came to haunt me again, as the scavenge
 ### Finish
 Finally, I yassified the power supply with an anime sticker and photographed it with an Instagram filter, to obtain the following results:
 
-<img src="{{ site.baseurl }}/images/power-supply.jpg" alt="Image of the constructed power supply" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/power-supply.webp" alt="Image of the constructed power supply" style="display:block;margin:auto;">

@@ -13,7 +13,7 @@ A few months ago, while talking with an amazing friend, I mentioned that I have 
 "Is that a question?"
 
 <figure>
-<img src="{{ site.baseurl }}/images/PLC-1.jpg" alt="Image of the PLC" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/PLC-1.webp" alt="Image of the PLC" style="display:block;margin:auto;">
 <figcaption style="text-align:center"><i>The PLC in question</i></figcaption>
 </figure>
 
@@ -22,7 +22,7 @@ So, my friend sent the old PLC to me through the post, and after a short time it
 
 ### Exploring the boards - the graphics board
 <figure>
-<img src="{{ site.baseurl }}/images/graphics-board.jpg" alt="Image of the graphics board" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/graphics-board.webp" alt="Image of the graphics board" style="display:block;margin:auto;">
 <figcaption style="text-align:center"><i>Graphics board</i></figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ What immediately caught my eye was one of the boards, right after the processor 
 
 ### The processor board
 <figure>
-<img src="{{ site.baseurl }}/images/Z80-board.jpg" alt="Image of the Z80 board" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/Z80-board.webp" alt="Image of the Z80 board" style="display:block;margin:auto;">
 <figcaption style="text-align:center"><i>Z80 board</i></figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ Reading the EEPROMs revealed a lot of Z80 code, and interestingly strings for a 
 
 ### The power board
 <figure>
-<img src="{{ site.baseurl }}/images/power-board.jpg" alt="Image of the power board" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/power-board.webp" alt="Image of the power board" style="display:block;margin:auto;">
 <figcaption style="text-align:center"><i>Power board</i></figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ However, the repair appears to have missed the fact that on the other side of th
 
 ### The ADC board
 <figure>
-<img src="{{ site.baseurl }}/images/ADC-board.jpg" alt="Image of the ADC board" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/ADC-board.webp" alt="Image of the ADC board" style="display:block;margin:auto;">
 <figcaption style="text-align:center"><i>ADC board</i></figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ The most interesting part about the board is the add-on board containing a massi
 
 ### The optocoupler board
 <figure>
-<img src="{{ site.baseurl }}/images/optoisolator-board.jpg" alt="Image of the optocoupler board" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/optoisolator-board.webp" alt="Image of the optocoupler board" style="display:block;margin:auto;">
 <figcaption style="text-align:center"><i>Optocoupler board</i></figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ Since these optocouplers are meant for a maximum of 110KHz operation, they can't
 
 ### The relay board
 <figure>
-<img src="{{ site.baseurl }}/images/relay-board.jpg" alt="Image of the relay board" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/relay-board.webp" alt="Image of the relay board" style="display:block;margin:auto;">
 <figcaption style="text-align:center"><i>Relay board</i></figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ After I traced out the control signals, I went to look at the data connections. 
 The connectors on the edges of every board were of the DIN 41612 variety, and were even helpfully labelled with a manufacturer's code. Once I found out they were ~15$ per connector, my handling of the board became more delicate, as I realized the kidney's worth of premium connectors this PLC had. However, luckily for me, the pin pitch was a regular 5.08mm, or two DIP pins. This meant that I could use two rows of regular female DIP headers to make a decent connection with the board. After about two hours of soldering things on a perfboard, which included adding a 5V regulator from the 12V line and making a convenient header to connect external signals, I attached my DIY adapter to the board. I connected my semi-DIY power supply to the 12V headers, and then I looked for something to talk to it with. Initially, since I knew that the controlling of the relays could just involve one clock signal, I connected one of the 74HC273's write pins and manually inserted it into ground and then 5V again, with another pin used to set relays manually. I did this to figure out how every relay was connected, so that I could complete the reverse engineering of the relay board. After one connection, I became bored, so I just wrote a quick Arduino script to do it for me, however since I was too bored to program each Arduino pin necessary, I just used it to drive the write and clear signals, while I manually connected each relay's associated data pin to 5V and observed which one turned on. This method worked perfectly, and in less than five minutes I had figured out the direct pin connections to all relays.
 
 <figure>
-<img src="{{ site.baseurl }}/images/DIY-connector.jpg" alt="Image of the adapter board" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/DIY-connector.webp" alt="Image of the adapter board" style="display:block;margin:auto;">
 <figcaption style="text-align:center"><i>Adapter board connected to relay board</i></figcaption>
 </figure>
 
@@ -106,6 +106,6 @@ Furthermore, another improvement to make would be replacing the Z80 CPU board wi
 
 
 <figure>
-<img src="{{ site.baseurl }}/images/PLC-2.jpg" alt="Another image of the PLC" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/PLC-2.webp" alt="Another image of the PLC" style="display:block;margin:auto;">
 <figcaption style="text-align:center"><i>Another image of the PLC</i></figcaption>
 </figure>

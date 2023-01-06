@@ -32,7 +32,7 @@ Still, even when knowing its internal workings, the datasheet or engineer’s wa
 
 
 <figure>
-<img src="{{ site.baseurl }}/images/pt2399_schematic.png" alt="Image of the PT2399 pedal schematic" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/pt2399_schematic.webp" alt="Image of the PT2399 pedal schematic" style="display:block;margin:auto;">
 <figcaption style="text-align:center"><i>The ideally small schematic!</i></figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ Since the design was built without an enclosure, and I am not a guitarist, I dec
 
 
 <figure>
-<img src="{{ site.baseurl }}/images/chorus-pedal.jpg" alt="Image of the finished pedal" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/chorus-pedal.webp" alt="Image of the finished pedal" style="display:block;margin:auto;">
 <figcaption style="text-align:center"><i>Elegantly placed on my dear E-mu Proteus 1/XR</i></figcaption>
 </figure>
 

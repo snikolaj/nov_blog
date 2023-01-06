@@ -26,7 +26,7 @@ The biggest issue with 8051s in terms of driving LEDs, though, is the fact that 
 Generally, for these purposes, there are go-to solutions, such as the ULN2003 Darlington array, or a discrete transistor solution. However, I decided against these, as I have no way of sourcing ULN2003s where I live, and at the moment I don’t have any transistors. However, one thing I do have are 30+ clone SN74HC00 NAND-gates on hand. In the datasheet it is visible that their output stage is a push-pull MOSFET configuration, and by tying their inputs together, each gate can be used as a simple inverting buffer. This was ideal for me, with the only caveat being that the absolute maximum continuous current per NAND-gate is 25mA, almost three times less than the required current. After some deliberation, I decided to follow this approach, with some testing on how stable the configuration is. 
 
 <figure>
-<img src="{{ site.baseurl }}/images/7-segment-schematic.jpg" alt="Schematic of the module" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/7-segment-schematic.webp" alt="Schematic of the module" style="display:block;margin:auto;">
 <figcaption style="text-align:center"><i>This came out to be the final schematic for the test version of my module, with the program for the microcontroller not being written yet. For this version I went with a 3-digit red common cathode 7 segment display.</i></figcaption>
 </figure>
 
@@ -85,6 +85,6 @@ I built the circuit on a perfboard, and powering it up with the microcontroller 
 
 
 <figure>
-<img src="{{ site.baseurl }}/images/7-segment-image.jpg" alt="Image of the module" style="display:block;margin:auto;">
+<img src="{{ site.baseurl }}/images/7-segment-image.webp" alt="Image of the module" style="display:block;margin:auto;">
 <figcaption style="text-align:center"><i>The final result - nice and bright, even after running it for a while!</i></figcaption>
 </figure>
