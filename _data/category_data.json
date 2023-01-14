@@ -35,6 +35,10 @@
         {
             "name": "македонски",
             "description": "Објави на македонски јазик (posts in Macedonian)."
+        },
+        {
+            "name": "media-reviews",
+            "description": "Reviews of media (books and anime) that I found notable and interesting to discuss."
         }
     ],
     "featured_videos": [

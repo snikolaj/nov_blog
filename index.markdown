@@ -46,5 +46,8 @@ This blog is dedicated to my dearest friend Sara, who constantly pushes me to im
         linkTitles[i].innerText = linkTitles[i].innerText.replace("-", " "); // replace the dashes in the text with spaces
     }
 
-    
+    // load background image specifically for the index
+    var indexBackground = document.getElementById("banner-image");
+    indexBackground.src = "{{ site.baseurl }}/backgrounds/code-bg-1.webp";
+    indexBackground.style.display = "block";
 </script>
