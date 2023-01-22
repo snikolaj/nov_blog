@@ -39,6 +39,10 @@
         {
             "name": "media-reviews",
             "description": "Reviews of media (books and anime) that I found notable and interesting to discuss."
+        },
+        {
+            "name": "project-Videosex",
+            "description": "Trying to recreate the magic of the Yugoslav synthpop group Videosex from scratch."
         }
     ],
     "featured_videos": [
@@ -88,6 +92,11 @@
             "link": "/documents/constant_current_statija.pdf",
             "name": "Exploring constant current sources and sinks",
             "description": "Explanations and schematics for programmable constant current sources and sinks."
+        },
+        {
+            "link": "/documents/DRAM Dosimetry.pdf",
+            "name": "DRAM Dosimetry Mini Research Article",
+            "description": "Exploring the feasibility of using commercial DRAM modules for radiation dosimetry."
         }
     ]
 }
