@@ -53,6 +53,10 @@
         {
             "link": "https://www.youtube.com/watch?v=yBe11VbfAME",
             "description": "A video exploring the surprisingly powerful capabilities of LibreOffice BASIC - it can send emails!"
+        },
+        {
+            "link": "https://youtu.be/PAc9QfChjpQ",
+            "description": "A video showing my DIY synthesizer."
         }
     ],
     "featured_projects": [
@@ -97,6 +101,11 @@
             "link": "/documents/DRAM Dosimetry.pdf",
             "name": "DRAM Dosimetry Mini Research Article",
             "description": "Exploring the feasibility of using commercial DRAM modules for radiation dosimetry."
+        },
+        {
+            "link": "/documents/Calculating the maximum theoretical rate of reaction in a free radical substitution reaction with my UV-C LEDs.pdf",
+            "name": "Calculating the maximum theoretical rate of reaction in a free radical substitution reaction with my UV-C LEDs",
+            "description": "The title is quite self-explanatory."
         }
     ]
 }
